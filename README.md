@@ -11,4 +11,4 @@ Given the number of visitors and the number of tickets each visitor needs, deter
 
 For instance if n = 3 visitors need tickets = [1, 2, 5] tickets each, and Alex is at index 1, the first six units of time, t = 0 through t = 5, are as shown below:
 
-![](images/Example)
+![](images/Example.png)
